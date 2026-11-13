@@ -1,0 +1,3 @@
+This is my Git practice repository.
+I am learning Git and GitHub.
+I am learning branches and commits.
